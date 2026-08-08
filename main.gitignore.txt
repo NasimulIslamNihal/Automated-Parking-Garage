@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.out
+.vscode/
+garage_database.txt
